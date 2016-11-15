@@ -1,0 +1,6 @@
+robo	KEYWORD1
+ecebotsrobo	KEYWORD1
+front	KEYWORD2
+stop	KEYWORD2
+left	KEYWORD2
+right	KEYWORD2
